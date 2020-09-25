@@ -78,7 +78,7 @@
     "gui_settings_tor_bridges_obfs4_radio_option": "Brug indbyggede obfs4 udskiftelige transporter",
     "gui_settings_tor_bridges_obfs4_radio_option_no_obfs4proxy": "Brug indbyggede obfs4 udskiftelige transporter (kræver obfs4proxy)",
     "gui_settings_tor_bridges_custom_radio_option": "Brug tilpassede broer",
-    "gui_settings_tor_bridges_custom_label": "Du kan få broer fra <a href=\"https://bridges.torproject.org/options\">https://bridges.torproject.org</a>",
+    "gui_settings_tor_bridges_custom_label": "Du kan få broer fra <a href=\"https://bridges.torproject.org/options?lang=da\">https://bridges.torproject.org</a>",
     "gui_settings_tor_bridges_invalid": "Ingen at de broer du tilføjede virker.\nDobbeltklik på dem eller tilføj andre.",
     "gui_settings_button_save": "Gem",
     "gui_settings_button_cancel": "Annuller",
